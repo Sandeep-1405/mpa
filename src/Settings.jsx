@@ -5,9 +5,9 @@ import { Link } from "react-router-dom";
 const Settings = () => {
   return (
     <div>
-      <Helmet>
+      {/* <Helmet>
         <title>Settings</title>
-      </Helmet>
+      </Helmet> */}
       <h1>Settings</h1>
       <Link to="/">Go to home</Link>
     </div>
