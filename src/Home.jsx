@@ -9,7 +9,7 @@ const Home = () => {
         <title>Home</title>
       </Helmet>
       <h1>Home mpa</h1>
-      <Link to="/settings">Go to settings</Link>
+      <a href="/settings">Go to settings</a>
     </div>
   );
 };
