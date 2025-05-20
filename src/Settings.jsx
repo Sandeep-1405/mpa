@@ -9,7 +9,7 @@ const Settings = () => {
         <title>Settings</title>
       </Helmet> */}
       <h1>Settings</h1>
-      <Link to="/">Go to home</Link>
+      <a href="/">Go to home</a>
     </div>
   );
 };
